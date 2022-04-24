@@ -1,5 +1,5 @@
 # ✏️  Chú ý: 
-# 📫 Opencore Laptop Dell Presicion M4800 - 0.8.0 - Full 🥰.              
+# 📫 Opencore Laptop Dell Presicion M4800 0.8.0 - Full 🥰.              
  
 #VNSafes chia sẻ cho anh em full bộ cài đặt macOS Monterey 12.3.1 Opencore dành cho laptop Dell Presicion M4800.
 
